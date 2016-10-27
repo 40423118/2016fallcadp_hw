@@ -5,41 +5,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-09-21T22:45:49-00:00</lastmod>
+<lastmod>2016-10-27T17:03:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-09-21T22:45:49-00:00</lastmod>
+<lastmod>2016-10-27T17:03:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-09-21T22:45:49-00:00</lastmod>
+<lastmod>2016-10-27T17:03:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-09-21T22:45:49-00:00</lastmod>
+<lastmod>2016-10-27T17:03:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-09-21T22:44:48+08:00</lastmod>
+<lastmod>2016-10-27T15:03:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</loc>
+<loc>./2016fallcadp.html</loc>
+<lastmod>2016-09-02T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w7pin-zhuang-he-4da-guai-shou-si-lian-mu-han.html</loc>
 <lastmod>2016-09-02T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -54,6 +61,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/shi-yong-dao-yin.html</loc>
+<lastmod>2016-09-02T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/i-will-be-hokage.html</loc>
+<lastmod>2016-09-02T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/stevengoodhaha.html</loc>
 <lastmod>2016-09-02T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

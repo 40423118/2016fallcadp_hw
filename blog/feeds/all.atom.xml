@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016FallCADP (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016FallCADP</title><link href="./2016fallcadp.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;
 &lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>w7拼裝核4大怪獸四連木旱</title><link href="./w7pin-zhuang-he-4da-guai-shou-si-lian-mu-han.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>stevenGOODhaha</name></author><id>tag:,2016-09-02:./w7pin-zhuang-he-4da-guai-shou-si-lian-mu-han.html</id><summary type="html">&lt;p&gt;這是這禮拜的拼裝核4大怪獸四連木旱
+&lt;a href="http://imgur.com/GTti2XS"&gt;&lt;img src="http://i.imgur.com/GTti2XS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/photo.php?fbid=1100639536710015&amp;set=a.134193853354593.27857.100002919385677&amp;type=3&amp;theater&amp;notif_t=feedback_reaction_generic&amp;notif_id=1477545978005840"&gt;&lt;font color="#FF0000"&gt;P.S都沒人幫我點讚霸脫進來幫我點讚!!!&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the end of this week!!!&lt;/p&gt;</summary><category term="I will be HOKAGE!!!!!!!!!"></category></entry></feed>
