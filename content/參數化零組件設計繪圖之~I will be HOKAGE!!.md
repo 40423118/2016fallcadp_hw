@@ -4,7 +4,6 @@ Category: Misc
 Tags: 使用導引
 Author: yen
 
-這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.
 
 
 超級w4~Solvespace 參數化零組件設計繪圖
