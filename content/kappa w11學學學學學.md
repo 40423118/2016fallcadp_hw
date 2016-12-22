@@ -31,6 +31,8 @@ kappa
 
 
 #### 2. Assembly (零件組立)####
+<a href="http://imgur.com/t0cB7Rb"><img src="http://i.imgur.com/t0cB7Rb.jpg" title="source: imgur.com" /></a>
+<iframe src="./../data/kappa/bar and cube.html" width="1000" height="1000"></iframe >
 
 #### 3. Linkages (fourbar & multilink) (四連桿與多連桿運動模擬)####
 
