@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016FallCADP (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-11-24T00:00:00+08:00</updated><entry><title>w11 學學學學轉轉轉轉轉轉</title><link href="./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan.html" rel="alternate"></link><updated>2016-11-24T00:00:00+08:00</updated><author><name>stevenGOODhaha</name></author><id>tag:,2016-11-24:./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016FallCADP (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-05T00:00:00+08:00</updated><entry><title>w1? kappa 3D printer!!!!</title><link href="./w1-kappa-3d-printer.html" rel="alternate"></link><updated>2017-01-05T00:00:00+08:00</updated><author><name>stevenGOODhaha</name></author><id>tag:,2017-01-05:./w1-kappa-3d-printer.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;3D printer
+&lt;iframe src="./../data/kappa/3Dprinter.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+connect bar!!!
+&lt;iframe src="./../data/kappa/connect bar.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+kappa bar
+&lt;iframe src="./../data/kappa/kappa bar.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+kappa platform
+&lt;iframe src="./../data/kappa/kappa platform.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+小圓盤
+&lt;iframe src="./../data/kappa/小圓盤.html" width="1000" height="1000"&gt;&lt;/iframe &gt;&lt;/p&gt;
+&lt;p&gt;This is the end of this week!!!&lt;/p&gt;</summary><category term="I will be HOKAGE!!!!!!!!!"></category></entry><entry><title>w11 學學學學轉轉轉轉轉轉</title><link href="./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan.html" rel="alternate"></link><updated>2016-11-24T00:00:00+08:00</updated><author><name>stevenGOODhaha</name></author><id>tag:,2016-11-24:./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;An introductory tutorial is available, in which we draw the same part that is shown in the demo video. &lt;/p&gt;
 &lt;p&gt;This covers most of the basic features of SolveSpace, including sketches, constraints, extrusions, and Boolean operations.&lt;/p&gt;
