@@ -54,7 +54,8 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit kappa w11學學學學學.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@editkappa 3D printer!!!!.md</vh></v>
+<v t="leo.20170105125931.1"><vh>@edit kappa w11學學學學學.md</vh></v>
 <v t="leo.20161124145337.1"><vh>@edit kappa w10 Excel超級製圖員.md</vh></v>
 <v t="leo.20161027155109.1"><vh>@edit 參數化零組件設計繪圖之~I will be HOKAGE!!.md</vh></v>
 <v t="leo.20161117154524.1"><vh>@edit stevenGOODhaha.md</vh></v>
@@ -102,6 +103,29 @@ print("hello")
 <t tx="amd.20160106094829.1"></t>
 <t tx="amd.20160106095324.1"></t>
 <t tx="amd.20160727114506.1"></t>
+<t tx="amd.20160727120222.1">@language md
+Title: w1? kappa 3D printer!!!!
+Date: 2017-1-5
+Category: Misc
+Tags: I will be HOKAGE!!!!!!!!!
+Author:stevenGOODhaha
+
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+3D printer
+&lt;iframe src="./../data/kappa/3Dprinter.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+connect bar!!!
+&lt;iframe src="./../data/kappa/connect bar.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+kappa bar
+&lt;iframe src="./../data/kappa/kappa bar.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+kappa platform
+&lt;iframe src="./../data/kappa/kappa platform.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+小圓盤
+&lt;iframe src="./../data/kappa/小圓盤.html" width="1000" height="1000"&gt;&lt;/iframe &gt;
+
+This is the end of this week!!!
+
+</t>
 <t tx="amd.20160921213353.1"></t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
