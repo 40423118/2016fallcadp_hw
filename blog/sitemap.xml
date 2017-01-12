@@ -5,35 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-05T14:43:25-00:00</lastmod>
+<lastmod>2017-01-12T15:18:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-05T14:43:25-00:00</lastmod>
+<lastmod>2017-01-12T15:18:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-05T14:43:25-00:00</lastmod>
+<lastmod>2017-01-12T15:18:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-05T14:43:25-00:00</lastmod>
+<lastmod>2017-01-12T15:18:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-01-05T12:48:02+08:00</lastmod>
+<lastmod>2017-01-12T14:29:26+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./the-term-summarythis-is-the-end-of-this-semester.html</loc>
+<lastmod>2017-01-12T14:41:43+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan-ling-jian-zu-li-bei-sai-zai-zhe.html</loc>
+<lastmod>2017-01-12T14:29:26+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,13 +55,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./w1-kappa-3d-printer.html</loc>
 <lastmod>2017-01-05T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./w11-xue-xue-xue-xue-zhuan-zhuan-zhuan-zhuan-zhuan-zhuan.html</loc>
-<lastmod>2016-11-24T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2017-01-05T00:00:00+08:06</lastmod>
+<lastmod>2017-01-12T14:41:43+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -90,6 +97,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/i-will-be-hokage.html</loc>
 <lastmod>2017-01-05T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/kmol.html</loc>
+<lastmod>2017-01-12T14:41:43+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
