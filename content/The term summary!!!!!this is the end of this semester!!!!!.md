@@ -1,4 +1,4 @@
-Title: The term summary!!!!!this is the end of this semester!!!!! 
+Title: The semester summary!!!!!this is the end of this semester!!!!! 
 
 Date: 2017-1-12
 Category: Misc
@@ -56,7 +56,7 @@ LaplaceLaplaceLaplaceLaplaceLaplaceLaplace
 #### Lathe (旋轉繞行長出或除料)
 轉轉轉轉轉轉轉轉轉
 
-<a href="http://imgur.com/OogoFWm"><img src="http://i.imgur.com/OogoFWm.gif" title="source: imgur.com" /></a>
+
 
 
 #### 2. Assembly (零件組立)####

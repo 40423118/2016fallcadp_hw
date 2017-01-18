@@ -20,7 +20,7 @@ When we hover the mouse over any entity, constraint, or other object in the sket
 #### Lathe (旋轉繞行長出或除料)
 轉轉轉轉轉轉轉轉轉
 
-<a href="http://imgur.com/OogoFWm"><img src="http://i.imgur.com/OogoFWm.gif" title="source: imgur.com" /></a>
+這裡曾經似乎也放過奇怪的東西
 
 #### Export Triangle Mesh
 
